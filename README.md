@@ -189,7 +189,3 @@
 - Utilize políticas de cooldown para evitar flapping.
 - Monitore logs e métricas para ajustes finos.
 - Combine ASG e ELB para máxima resiliência e escalabilidade.
-
-
-
-🔗 Repositório no GitHub: https://github.com/Ruan-Pablo-Oli/asg-elb-aws-summary
